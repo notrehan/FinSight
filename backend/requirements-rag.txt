@@ -1,0 +1,4 @@
+# Optional semantic filing retrieval dependencies (FAISS wheels are platform-specific).
+-r requirements.txt
+sentence-transformers>=3.0,<6.0
+faiss-cpu>=1.8,<2.0
