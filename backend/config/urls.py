@@ -16,7 +16,22 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
+from memory import views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('', views.home, name='home'),
+    path('api/v1/funds/search', views.fund_search, name='fund-search'),
+    path('api/v1/funds/nav/<str:scheme_code>', views.fund_nav, name='fund-nav'),
+    path('api/v1/funds/compare', views.fund_compare, name='fund-compare'),
+    path('api/v1/macro', views.macro_data, name='macro-data'),
+    path('api/v1/ask', views.ask_post, name='ask'),
+    path('api/v1/calculate', views.calculate_api, name='calculate'),
+    path('api/v1/prices/<str:ticker>', views.price_lookup_api, name='price-lookup'),
+    path('api/v1/portfolio/analyze', views.portfolio_analyze, name='portfolio-analyze'),
+    path('api/v1/watchlists', views.watchlist_api, name='watchlists'),
+    path('api/v1/watchlists/save', views.save_watchlist, name='watchlists-save'),
+    path('api/v1/announcements', views.announcements_api, name='announcements'),
+    path('api/metrics', views.metrics, name='metrics'),
+    path('api/health', views.health, name='health'),
 ]

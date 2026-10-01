@@ -9,7 +9,7 @@ from sentence_transformers import SentenceTransformer
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
-MODEL_NAME = "all-MiniLM-L6-v2"
+MODEL_NAME = "intfloat/multilingual-e5-base"
 
 
 def get_company_paths(company: str):
@@ -54,7 +54,7 @@ def main():
 
     print(f"Loaded {len(records)} chunks.")
 
-    texts = [record["text"] for record in records]
+    texts = [f"passage: {record['text']}" for record in records]
 
     print("Loading embedding model...")
 
@@ -94,6 +94,10 @@ def main():
             indent=2,
             ensure_ascii=False,
         ),
+        encoding="utf-8",
+    )
+    (vector_dir / "index_config.json").write_text(
+        json.dumps({"embedding_model": MODEL_NAME, "normalized": True, "version": 1}, indent=2),
         encoding="utf-8",
     )
 

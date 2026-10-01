@@ -1,0 +1,4 @@
+-r requirements.txt
+docling>=2.30,<3
+ragas>=0.3,<1
+Faker>=37,<40
