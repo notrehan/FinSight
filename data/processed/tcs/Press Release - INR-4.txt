@@ -1,0 +1,631 @@
+
+--- PAGE 1 ---
+ 
+Page 1 of 14 
+ 
+  Ind-AS & IFRS ₹ 
+ 
+ 
+TCS closes FY26 with Improving Sequential Growth Momentum and Strong Deal 
+Wins  
+ 
+• 4QFY26 Revenue ₹70,698 crore, Growth +5.4% QoQ; +1.2% QoQ in CC  
+ 
+• FY 26 Revenue ₹267,021 crore, Growth +4.6% YoY, -2.4% in CC 
+ 
+• Annualized AI Revenue crosses US$ 2.3 billion in Q4FY26 
+ 
+• FY26 Operating Margin* at 25%; up 70 basis points YoY – highest operating margin in last 4 years 
+ 
+• FY26 Net Margin* at 19.8%; up 80 basis points YoY – highest net margin in last 4 years 
+ 
+• Strong TCV performance at $40.7 billion for FY26 and at $12 billion for Q4, among the highest TCV 
+ever; with 3 mega deals for the quarter and 5 mega deals for the year 
+ 
+• Healthy client addition across revenue bands:  
+o $100M+ up by 2 YoY, number of clients increased to 66; 
+o $50M+ up by 9 YoY, number of clients increased to 139; 
+o $1M+ up by 65 YoY, number of clients increased to 1,397 
+ 
+MUMBAI, April 9, 2026: Tata Consultancy Services (BSE: 532540, NSE: TCS) reported its consolidated 
+financial results according to Ind AS and IFRS, for the quarter and full year ending March 31, 2026. 
+ 
+FY2026: Annual Highlights Q4FY26: Quarterly Highlights 
+• Employee Headcount: 584,519 
+• Talent Development: 
+o 69 million Learning Hours, up 23% YoY 
+o 5.2 million Competencies Acquired 
+o 270k+ with higher proficiency in AI/ML 
+• Final Dividend (proposed): ₹ 31 per share, to be 
+approved at the Annual General Meeting;  
+FY26 Shareholder payout of ₹39,571 crore in 
+the form of dividends 
+• Revenue at ₹70,698 crore, +5.4% QoQ  
+o Growth led by ERU (+6.1%), and CBG 
+(+2.8%) QoQ in CC  
+o Amongst markets, growth led by UK 
+(+2.4%); North America (+1.4%) QoQ in CC 
+• Operating Margin: 25.3%, +10 basis points 
+QoQ* 
+• Net Margin: 19.4%, EPS grew 12.2% YoY* 
+• Strong Cash conversion: Operating Cash Flow 
+106.7% of Net Income  
+*Excludes one-offs 
+ 
+ 
+
+--- PAGE 2 ---
+ 
+Page 2 of 14 
+ 
+ 
+K Krithivasan, Chief Executive Officer and Managing Director, said “We are pleased to report the third 
+consecutive quarter of sequential growth, supported by three mega deals and a $12 billion TCV, underscoring 
+the strength of our five pillar strategy and our AI led positioning across services. It is equally encouraging that 
+this momentum was broad  based across major markets and most industries. While the macro -economic 
+headwinds continue, we see sustained customer conviction in technology investments, which positions us well 
+for the opportunities ahead.” 
+ 
+Aarthi Subramanian, Executive Director - President and Chief Operating Officer, said "FY26 marked a pivotal 
+year for enterprise AI adoption. In Q4, our annualized AI revenues surpassed $2.3 billion, driven by the 
+accelerated deployment of AI solutions. We experienced strong deal momentum across new services in 
+Enterprise Transformation, Digital Engineering, and Cloud Modernization. Our investment in HyperVault was 
+a catalyst in forging strategic partnerships with OpenAI, AMD and ABB, further strengthening our positioning 
+across Infrastructure-to-Intelligence.” 
+ 
+Samir Seksaria, Chief Financial Officer, said, “In FY26, we intensified investments through our Build–Partner–
+Acquire approach, by acquiring Coastal Cloud &  List Engage and establishing HyperVault. Even as we scaled 
+our investments in AI‑led growth opportunities, our margins expanded by 70 basis points, reflecting our strong 
+operational rigor. Our solid cash flow and resilient balance sheet position us to advance strategic priorities, 
+pursue timely investments, and maximize growth.” 
+ 
+  
+Sudeep Kunnumal, Chief HR Officer , said “We are pleased to implement annual salary increases across all 
+grades effective 1st April. In Q4, we continued to invest in a future ‑ready workforce with strong additions 
+across experienced talent and campus hires. Building an AI ‑first culture and equipping our people with 
+AI‑ready skills remained a key priority in FY26 and will continue into FY27, as we align closely with our 
+customers’ evolving needs.” 
+  
+
+--- PAGE 3 ---
+ 
+Page 3 of 14 
+ 
+ 
+ 
+Q4 and Full Year Segment Highlights 
+ 
+Growth by Domain 
+ 
+ 
+ 
+Growth by Markets 
+ 
+ 
+Key Highlights for the quarter 
+ 
+• Entered a strategic collaboration with  AMD, a leader in high -performance and AI computing, on the 
+co-development of industry-specific AI and GenAI solutions by combining TCS’ deep domain expertise, 
+systems integration capabilities and global innovation ecosystem with AMD’s high -performance 
+computing and AI product portfolio. Together, the companies will help enterprises modernize hybrid 
+cloud and edge environments, deploy AI -powered workplace solutions, and accelerate innovation 
+across cloud-to-edge workloads.  
+Expanding the collaboration, TCS HyperVault and AMD  will co-develop a rack-scale AI infrastructure 
+design based on the AMD “Helios” platform and both companies will offer an AI -ready data center 
+blueprint supporting up to 200 MW of capacity and will work with hyperscalers and AI companies to 
+accelerate data center build-outs in India to support sovereign AI initiatives. 
+ 
+Vertical (%) Q4 FY25 Q3 FY26 Q4 FY26 Q-o-Q 
+CC Growth
+Y-o-Y
+CC Growth FY25 FY26 YoY 
+CC Growth
+BFSI 31.2 31.9 31.6  0.1  0.4 30.9 32.0  1.0
+Consumer Business 15.3 15.4 15.7  2.8  0.8 15.3 15.51 - 2.0
+Life Sciences & Healthcare 10.1 10.5 10.4  0.4  3.3 10.4 10.41 - 1.8
+Manufacturing 8.4 8.8 8.8  1.2  3.1 8.5 8.78 - 0.2
+Technology & Services 8.1 8.4 8.4  1.0  2.5 8.1 8.42  2.2
+Communication & Media 5.8 5.9 5.8 - 0.4 - 2.1 5.9 5.83 - 4.7
+Energy, Resources and Utilities 5.7 6.0 6.3  6.1  7.3 5.7 6.03  3.1
+Regional Markets & Others 15.4 13.1 13.0  1.2 - 12.8 15.2 13.07 - 14.9
+Total 100.0 100.0 100.0  1.2 - 0.6 100.0 100.0 -2.4
+Geography (%) Q4 FY25 Q3 FY26 Q4 FY26 Q-o-Q 
+CC Growth
+Y-o-Y
+CC Growth FY25 FY26 YoY 
+CC Growth
+Americas
+North America 48.2 48.5 48.5  1.4  2.5 48.2 48.6 0.2
+Latin America 1.8 2.0 1.9 - 6.9 - 2.9 1.9 1.9 0.9
+Europe
+UK 16.8 16.9 17.2  2.4 - 1.2 16.8 17.4 -1.9
+Continental Europe 14.3 15.6 15.6  1.0  1.0 14.3 15.4 -0.9
+Asia Pacific 8.1 8.3 8.3 - 0.5  0.4 8.0 8.3 2.4
+India 8.4 6.1 6.0  1.7 - 23.0 8.6 5.9 -28.6
+MEA 2.4 2.6 2.5  0.4  7.8 2.2 2.5 9.5
+Total 100.0 100.0 100.0 1.2 -0.6 100.0 100.0 -2.4
+
+--- PAGE 4 ---
+ 
+Page 4 of 14 
+ 
+ 
+• Announced a multi -dimensional strategic partnership with OpenAI , that spans multiple high -impact 
+areas, including powering AI -led innovation across Tata Group companies, joint efforts to drive AI 
+transformation across industries globally, setting up AI infrastructure and social impact. 
+TCS’ HyperVault and OpenAI have agreed to a multi-year partnership to develop AI infrastructure in 
+India, with 100MW capacity in the initial phase , and an option to scale to 1 GW. This infrastructure 
+will power next-generation AI workloads and position India as a global AI hub. 
+• Signed a Memorandum of Understanding (MoU) with ABB to strengthen the two companies’ strategic 
+collaboration across IT infrastructure and applications, digital and industrial AI initiatives, data centres, 
+and other emerging technologies.   
+• TCS and Honeywell announced a strategic partnership to help building operators move from 
+traditional automation to enterprise-wide autonomy. By combining TCS’ IT modernization, cloud, and 
+consulting capabilities with Honeywell’s expertise in operational technology and AI -driven analytics, 
+the collaboration aims to deliver real-time intelligence and improved operational efficiency. 
+• Signed a multi-year partnership with ServiceNow for developing trusted, AI-powered solutions on the 
+ServiceNow platform to reimagine back -office functions such as HR, finance, supply chain, 
+procurement, and employee services. These solutions will enhance workflow efficiency, governance, 
+and insight-driven decision-making, and will be delivered through TCS’ AI-led global business solutions 
+portfolio. 
+• Introduced Rapid Outcome AI platform built on NVIDIA to help organizations accelerate their journey 
+from AI experimentation to scalable, real-world business outcomes. By leveraging predictive analytics, 
+generative AI, computer vision, and agentic and Physical AI blueprints tailored for industry -specific 
+processes, TCS and NVIDIA will help enterprises achieve higher levels of autonomy across their 
+enterprise workflows. 
+• Entered into a s trategic alliance with Cisco to launch a Center of Excellence (CoE) in Hyderabad for 
+Autonomous Enterprise Operations , to help enterprises move from rule -based automation to 
+intelligent, self-governing operations that understand the context in real -time and take actions on 
+their own. By enabling Zero-touch operations, the CoE will help organisations reduce complexities in 
+operation and deliver exponential business outcomes by eliminating friction in their existing IT 
+environment. 
+• Established a collaboration with GitLab Inc., the intelligent orchestration platform for DevSecOps, to 
+combine TCS’ expertise in AI -led enterprise transformation capabilities with GitLab's pre -built AI 
+agents and intelligent orchestration for software development. Together, TCS and GitLab will enable 
+customers to accelerate software deliv ery, enhance security, and orchestrate AI agents across the 
+entire software development lifecycle (SDLC) within their organization's full context, standards, and 
+guardrails. 
+• Announced the launch of TCS Workspace Experience Studio engineered with Zscaler Digital 
+ExperienceTM (ZDXTM), which will help TCS to redefine enterprise digital workspaces for customers by 
+integrating Zero Trust security, observability, and AI-powered experience analytics, delivering a truly 
+seamless, resilient, and proactive digital environment for their workforce. 
+ 
+ 
+
+--- PAGE 5 ---
+ 
+Page 5 of 14 
+ 
+ 
+• Launched seventh Gemini Experience Center (GEC)  at TCS Innovation Hub in Troy, Michigan , in 
+partnership with Google Cloud , to enable global manufacturers to co -innovate and scale AI -led 
+solutions for smarter, resilient operations.  
+• TCS has announced a significant expansion of its long -standing partnership with leading UK based 
+telecom operator . This five -year contract will see TCS lead the operator's comprehensive IT 
+transformation journey for its consumer business, leveraging advanced AI, Cloud, and Digital 
+Engineering capabilities. The expansion, built on years of trusted partnership and demo nstrated 
+delivery, will see TCS take end-to-end responsibility for running the entire IT systems of the operator's 
+consumer base and become its strategic technology partner, consolidating entire landscape previously 
+spread across multiple service providers. 
+ 
+• TCS & Marks & Spencer (M&S)  have renewed their multi‑year strategic partnership. This continuing 
+engagement builds on the more than a decade -long trusted partnership between the two 
+organisations and will see TCS continue to serve as M&S’s strategic technology partner as the retailer 
+embeds its technology transformation. As part of this continuing partnership, TCS will support M&S 
+as it transforms to become an omnichannel, data‑ driven retailer supported by globally best -in-class 
+modern technologies. TCS will utilise AI in its transformation approach —supported by its extensive 
+domain expertise and one of the world’s largest AI talent pools. This will support future -readiness, 
+provide the right base for long‑term growth, and create superior customer experience. 
+ 
+• TCS has entered into a five ‑year, multi‑million‑dollar strategic partnership with a leading U.S. -based 
+retail and pharmacy chain to drive large ‑scale, enterprise ‑wide transformation. The engagement 
+focuses on modernizing core technology platforms, strengthening retail and pharmacy business, 
+improve operational resilience, and advancing digital, data, and AI ‑led capabilities. The partnership 
+also establishes Global Capability Centers as a strategic foundation to enable long ‑term 
+transformation, intellectual property creation, and sustained value realization for the customer. 
+ 
+• A leading UK Financial Services organisation has renewed its strategic partnership with TCS for an 
+additional five years, extending a relationship of more than 15 years. The renewed engagement aligns 
+with the organisation’s focus on operational resilience, seamless integration, and the responsible 
+adoption of AI and digital capabilities while continuing to provide industry -leading service to its 
+customers. As a strategic partner, TCS will continue to support transformation across the client’s Retail 
+and SME Banking businesses, leveraging AI‑enabled automation, analytics, and digital engineering to 
+deliver a secure, resilient, and scalable technology environment. The renewal reinforces TCS’ role as a 
+trusted long‑term transformation partner with deep BFSI expertise. 
+ 
+• Selected by a leading bank in Philippines as a strategic partner for a large-scale IT infrastructure and 
+operations transformation. As part of this multiyear engagement, TCS will deliver end -to-end 
+infrastructure managed services spanning Service Integration and Management (SIAM), cloud 
+enablement and operations, data center and network services, end user computing, platform services 
+(mainframe and open systems), service resiliency, and security operations. The engagement will bring 
+
+--- PAGE 6 ---
+ 
+Page 6 of 14 
+ 
+together TCS’ deep BFSI domain expertise, SIAM led operating model, cloud-first architecture, and AI-
+driven resilience and security capabilities to run mission critical banking platforms at scale.  
+• Partnered with Flight Centre Travel Group (FCTG) to support its global digital transformation journey, 
+and future proof their  cloud and network services, strengthen resilience, and modernise services 
+platforms across its operations.  
+• Extended and expanded its decade-long partnership with Swissport International, a global leader in 
+aviation services, by five years . The renewed agreement brings a fresh focus on digital innovation, 
+enhancing operational excellence and driving technological transformation across Swissport’s global 
+operations. TCS will help drive the continued modernisation of Swissport’s technology landscape and 
+scale AI enabled services, data platforms, and hybrid cloud operations. The partnership will help the 
+company adapt and stay ahead in a fast-changing aviation landscape. TCS will harness the power of AI 
+to strengthen IT service operations, enhanc e operational resilience, ensure consistent delivery of 
+services, and elevate employee experience across mission-critical ground operations. 
+ 
+• A global leader in the consumer -packaged goods industry  has selected TCS to  reimagine global IT 
+support and digital workplace  services. TCS will deliver a unified, AI -powered operating model that 
+seamlessly integrates global and regional operations, leveraging deep CPG expertise, intelligent 
+automation, and advanced observability to  position IT as a strategic growth enabler. This  
+transformation will elevate employee experience, drive higher productivity, operational resilience, 
+and a future ready foundation to support the client’s long term business ambitions. 
+ 
+• A leading US wholesale retailer has renewed its  strategic partnership with TCS  to transform the 
+operating model. Leveraging its deep retail and contextual knowledge, TCS will establish an AI -
+powered operating model and modernize the technology landscape  to streamline operations, 
+improve scalability, and enhance service resilience. TCS will also develop an AI roadmap, enabling the 
+systematic adoption of AI across business and IT operations. Thi s transformation will support the 
+retailer’s long-term growth and innovation objectives. 
+• Selected by a leading North American airport terminal operator  to unify and manage IT services 
+enterprise-wide. Leveraging AI-powered automation and predictive insights with TCS ignio™, TCS will 
+establish a unified digital foundation spanning mission critical domain including terminal operations, 
+security & communications, airside operations, enterprise systems, core infrastructure and cyber 
+security. This will reduce complexity, vendor fragmentation and operational silos, enhance end-to-end 
+visibility and governance, and ensure reliability and consistent service quality to  support seamless 
+airport operations and long-term growth. 
+• Partnered with Pearson, a lifelong learning company, to advance next generation workforce skilling 
+through scalable digital learning and AI-driven insights. Through this collaboration, Pearson will bring 
+its enterprise learning and assessment expertise together with TCS’ leadership in Contextual AI and 
+the robust TCS iON digital learning and assessment platforms. Together, the companies will empower 
+enterprises to build a perpetually adaptive workforce, leveraging AI-driven insights to bridge skill gaps 
+and drive measurable business innovation. 
+ 
+
+--- PAGE 7 ---
+ 
+Page 7 of 14 
+ 
+ 
+Partner Speak 
+“India is already leading the way in AI adoption, and with its talent, ambition, and strong government support, 
+it is well placed to help shape its future. Through OpenAI for India and our partnership with Tata Group, we’re 
+working together to build the in frastructure, skills, and local partnerships needed to build AI with India, for 
+India, and in India, so that more people across the country can access and benefit from it.” 
+          Sam Altman, CEO, OpenAI 
+ 
+ 
+“AI adoption is accelerating, and unlocking its potential requires a new scale of high-performance computing 
+and deep collaboration across the industry. AMD is building the open, end -to-end compute foundation that 
+enables AI across the enterprise. Through our work with TCS, we are helping customers translate AI innovation 
+into new growth opportunities across industries.” 
+Dr. Lisa Su, Chair and Chief Executive Officer, AMD 
+ 
+“AI is transforming how enterprises operate across industries —from manufacturing and telecom to banking 
+and retail. The combination of TCS Rapid Outcome AI integrated with the full- stack NVIDIA AI platform 
+alongside TCS’ deep industry expertise, enables organizations to accelerate the development and deployment 
+of AI applications that deliver new levels of automation and tangible business outcomes.” 
+John Fanelli, Vice President, Enterprise Software, NVIDIA 
+ 
+"The Center of Excellence is a testament to the strength of our longstanding partnership with TCS. By 
+combining Cisco’s AI -driven technology with TCS’ deep industry expertise, we are empowering our mutual 
+customers to accelerate their journey toward autono mous operations and achieve unprecedented business 
+agility." 
+Tim Coogan, Senior Vice President, Global Partner Sales, Cisco 
+ 
+“As global enterprises rethink operating models for growth and efficiency, they are looking for partners that 
+can deliver innovation, execution, and governance at scale. Together with TCS, we are helping enterprises 
+move beyond isolated AI experiments by b uilding agentic AI natively into workflows, modernizing legacy 
+environments, and driving measurable business outcomes.”  
+Amit Zavery, President, Chief Operating Officer and Chief Product Officer, ServiceNow 
+ 
+"This collaboration between TCS and Zscaler represents a partnership dedicated to transforming the future 
+of enterprise digital workspaces. Together, we are empowering organizations to achieve tangible business 
+results by delivering smarter, more resilient digital environments that enhance productivity, improve user 
+experiences, and drive operational success." 
+Anthony Torsiello, SVP, Global Partner Ecosystems, Zscaler 
+ 
+“Our partnership with TCS focuses on accelerating the deployment of agentic AI where it delivers the most 
+significant value to industrial operations. Through the new Physical AI Gemini Experience Center, we are 
+equipping global manufacturers with the intel ligence to build more autonomous, resilient, and data- driven 
+enterprises, allowing them to fully optimize their business models with Google Cloud’s leading technology.” 
+Saurabh Tiwary, VP and General Manager, Cloud AI, Google Cloud 
+ 
+ 
+
+--- PAGE 8 ---
+ 
+Page 8 of 14 
+ 
+ 
+“Partnering with TCS helps ABB build smarter systems, adapt faster, and scale our innovations globally. India 
+remains an important growth market for us and the renewed partnership will position ABB as one of the key 
+partners for TCS’ ambitious data centre expansion plans.” 
+Morten Wierod, CEO, ABB 
+ 
+“Leaders in every sector are investing heavily in AI, but many are struggling to demonstrate a return on that 
+investment. Productivity only increases when employees have the skills and confidence to work alongside new 
+technology. By combining Pearson’s expertise in learning and assessment with TCS’ consulting capabilities and 
+global scale, we can help organisations close skills gaps by bringing learning into the flow of work. This enables 
+teams to build skills faster, use AI to solve business challenges, an d deliver tangible improvements in 
+productivity.” 
+Omar Abbosh, CEO, Pearson 
+ 
+Customer Speak 
+ 
+“TCS is one of the world’s largest technology service providers, bringing expertise in travel as part of the Tata 
+Group, which operates several airlines. Our strategic partnership will accelerate the deployment of 
+transformational travel technology for our  customers globally, helping them provide an even better retail 
+experience to air travelers. By combining Amadeus’ trusted travel platform with AI -enabled capabilities, we 
+are fostering cross-industry collaboration among suppliers, partners, and customers, we’re excited about this 
+partnership and look forward to working together to improve the travel experience.” 
+Cyril Tetaz, EVP Airline Solutions, Amadeus 
+ 
+ 
+ 
+“Our long-standing partnership with TCS has been pivotal in strengthening the digital backbone of our global 
+operations. Together, we have created a strong technology foundation for our global operations, and this 
+renewed partnership will help us continue to innovate at scale and speed, strengthen operational excellence, 
+and support our long‑term growth strategy.” 
+Dave Lynch, Group CIO, Swissport International Limited 
+ 
+ 
+"We are delighted to be working with TCS as we continue our evolution as a business. Strengthening our 
+technology backbone is an ongoing priority and we look forward to collaborating with the TCS team to deliver 
+tangible benefits to our people and, ultimately, our customers and shareholders."  
+Graham Turner, Chief Executive Officer, Flight Centre Travel Group 
+ 
+  
+
+--- PAGE 9 ---
+ 
+Page 9 of 14 
+ 
+ 
+Research and Innovation 
+As of 31st March 2026, the Company has filed 9,596 patents cumulatively, of which 5,500 have been granted. 
+This includes 1,833 patents filed for AI-led Inventions, of which 573 patents have been granted.   
+ 
+Awards and Recognition 
+• Featured in Fortune World’s Most Admired Companies™ list for the fourth consecutive year.  
+• Won the Microsoft Security Excellence Awards 2026  for AI -powered Zero Trust and identity -first 
+security solutions. 
+• Ranked #1  across multiple European countries and named Global Top Employer , Europe Top 
+Employer, and Enterprise-Wide Top Employer by the Top Employers Institute. 
+• Recognized by the Top Employers Institute as the #1 Top Employer in the United States, #3 in Canada, 
+and #1 in Singapore. 
+• Guinness World Records recognized TCS CodeVita™ as the world’s largest programming competition, 
+with 146,922 participants in its 13th season. 
+• Won Overall Gold Employer, along with gold recognitions for Early Career and Growth Employer  
+excellence in the U.S., by Where You Work Matters 2026. 
+• Won Innovation in GovTech for TCS DigiBOLT™, enabling citizen-centric digital transformation, at the 
+Aegis Graham Bell Awards.  
+• Received the Excellence in New Technology award for innovation in public infrastructure at the Rail 
+Analysis Innovation & Excellence Summit. 
+• Ranked among the Top 10 Industry Partners of the Year by the edie Sustainability Awards 2026 (UK) 
+for advancing netzero and industrial decarbonisation.  
+  
+
+--- PAGE 10 ---
+ 
+Page 10 of 14 
+ 
+IFRS Financial Statements 
+  
+Consolidated Statements of Comprehensive Income 
+For the year ended March 31, 2025, and March 31, 2026 
+(In millions of ₹, except per share data)  
+  Year ended  
+March 31, 2025 
+Year ended  
+March 31, 2026* 
+ Revenue  2,553,240  2,670,210  
+ Cost of revenue  1,559,940  1,599,890  
+ Gross margin  993,300  1,070,320  
+ SG & A expenses  371,650  401,940  
+ Operating income  621,650  668,380  
+ Other income (expense), net  31,660  35,170  
+ Income before income taxes  653,310  703,550  
+ Income taxes  165,340  172,910  
+ Income after income taxes  487,970  530,640  
+ Non-controlling interests 2,440  2,440  
+ Net income  485,530  528,200  
+ Earnings per share in ₹ 134.19  145.99  
+  * excludes exceptional items 
+  
+  
+Consolidated Statements of Comprehensive Income 
+For the three-month periods ended March 31, 2025, Dec 31, 2025, and March 31, 2026 
+(In millions of ₹, except per share data) 
+  
+  Three-month period 
+ended Mar 31, 2025 
+Three-month period 
+ended Dec 31, 2025* 
+Three-month period 
+ended Mar 31, 2026 
+Revenue 644,790  670,870  706,980  
+Cost of revenue 394,740  397,040  419,150  
+Gross margin 250,050  273,830  287,830  
+SG & A expenses 94,040  104,940  109,130  
+Operating income 156,010  168,890  178,700  
+Other income (expense), net 8,010  9,220  4,920  
+Income before income taxes 164,020  178,110  183,620  
+Income taxes 41,090  43,100  45,780  
+Income after income taxes 122,930  135,010  137,840  
+Non-controlling interests 690  630  660  
+Net income 122,240  134,380  137,180  
+ Earnings per share in ₹ 33.79 37.14  37.92  
+    * excludes exceptional items 
+  
+  
+ 
+  
+
+--- PAGE 11 ---
+ 
+Page 11 of 14 
+ 
+ 
+Consolidated Statements of Financial Position 
+As of March 31, 2025, and March 31, 2026 
+(In millions of ₹) 
+  
+  As of March 31,  
+2025 
+As of March 31,  
+2026 
+Assets 
+Property and equipment 129,320  141,800  
+Right-of-use Assets 92,750  110,270  
+Intangible assets and Goodwill 49,640  114,580  
+Accounts Receivable 502,330  577,290  
+Unbilled Revenues 154,700  181,440  
+Invested Funds 472,220  500,200  
+Other current assets 124,860  128,980  
+Other non-current assets 91,730  90,520  
+Total Assets 1,617,550  1,845,080  
+Liabilities and Shareholders' Equity 
+Shareholders' Funds 968,820  1,093,760  
+Current liabilities 530,010  609,140  
+Non-current liabilities 108,570  129,800  
+Non-controlling interests 10,150  12,380  
+Total Liabilities 1,617,550  1,845,080  
+  
+  
+  
+ 
+  
+ 
+  
+
+--- PAGE 12 ---
+ 
+Page 12 of 14 
+ 
+Ind AS Financial Statements 
+ Consolidated Statement of Profit and Loss 
+For the year ended March 31, 2025, and March 31, 2026 
+(In ₹ crore, except per share data) 
+ Year ended  
+March 31, 2025 
+Year ended  
+March 31, 2026* 
+Revenue 255,324  267,021  
+Expenditure     
+ a) Employee costs 145,788  154,994  
+ b) Cost of equipment and software licences 11,648  4,399  
+ c) Other operating expenses 30,481  35,230  
+ d)  Depreciation 5,242  5,560  
+Total Expenditure  193,159  200,183  
+Profit Before Taxes & Other Income 62,165  66,838  
+Other income (expense), net 3,166  3,517  
+Profit Before Taxes 65,331  70,355  
+Provision For Taxes 16,534  17,291  
+Profit After Taxes & Before Non-controlling interests 48,797  53,064  
+Non-controlling interests 244  244  
+Net Profit 48,553  52,820  
+Earnings per share in ₹ 134.19  145.99 
+*excludes exceptional items 
+ 
+Consolidated Statement of Profit and Loss 
+For the Quarter ended Mar 31, 2025, Dec 31, 2025, and Mar 31, 2026 
+(In ₹ crore, except per share data) 
+ Quarter ended 
+Mar 31, 2025 
+Quarter ended 
+Dec 31, 2025* 
+Quarter ended 
+Mar 31, 2026 
+Revenue 64,479  67,087  70,698  
+Expenditure       
+ a) Employee Costs 36,762  38,530  40,143  
+ b) Cost of equipment and software licences 2,748  1,262  1,444  
+ c) Other Operating expenses 7,989  9,026  9,835  
+ d) Depreciation 1,379  1,380  1,406  
+Total Expenditure  48,878  50,198  52,828  
+Profit Before Taxes & Other Income 15,601  16,889  17,870  
+Other income (expense), net 801  922  492  
+Profit Before Taxes 16,402  17,811  18,362  
+Provision For Taxes 4,109  4,310  4,578  
+Profit After Taxes & Before Non-controlling interests 12,293  13,501  13,784  
+Non-controlling interests 69  63  66  
+Net Profit 12,224  13,438  13,718  
+ Earnings per share in ₹ 33.79  37.14  37.92 
+* excludes exceptional items 
+  
+  
+
+--- PAGE 13 ---
+ 
+Page 13 of 14 
+ 
+ 
+Consolidated Balance Sheet 
+As at March 31, 2025, and March 31, 2026 
+(In crores of ₹) 
+  As at March 31,  
+2025       
+As at March 31,  
+2026 
+ASSETS 
+Property and equipment 12,524  13,697  
+Right-of-use assets 9,275  11,027  
+Intangible assets and Goodwill 2,800  9,284  
+Accounts Receivable 50,233  57,729  
+Unbilled Revenues 15,470  18,144  
+Invested Funds 47,222  50,020  
+Other current assets 12,486  12,899  
+Other non-current assets 9,619  9,572  
+Total Assets 159,629  182,372  
+EQUITY AND LIABILITIES 
+Shareholders' Funds 94,756  107,240  
+Current liabilities 53,001  60,914  
+Non-current liabilities 10,857  12,980  
+Non-controlling interests 1,015  1,238  
+Total Liabilities 159,629  182,372  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+
+--- PAGE 14 ---
+ 
+Page 14 of 14 
+ 
+ 
+About Tata Consultancy Services Ltd (TCS) 
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner of choice for 
+industry-leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of innovation, 
+engineering excellence and customer service. 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its 
+employees, and the community at large. With a highly skilled workforce spread across 55 countries and 202 service 
+delivery centers across the world, the company has been recognized as a top employer in six continents. With the ability 
+to rapidly apply and scale new technologies, the company has built long term partnerships with its clients – helping them 
+emerge as perpetually adaptive enterprises. Many of these relationships have endured into decades and navigated every 
+technology cycle, from mainframes in the 1970s to Artificial Intelligence today. 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New York City 
+Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, sustainability, and 
+community empowerment. 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2026. For more 
+information, visit www.tcs.com 
+Follow TCS on LinkedIn| Instagram | YouTube| X 
+TCS media contacts: 
+Corporate Communications Email: corporate.communications@tcs.com  
+Email: santosh.castelino@tcs.com  
+Email: venkata.susmita@tcs.com 
+Phone: +91 22 6778 9999 
+ 
+ 
+### 
+ 
+ 
+ 
+ 

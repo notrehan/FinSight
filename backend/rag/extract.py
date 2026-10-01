@@ -1,11 +1,10 @@
+import sys
 from pathlib import Path
 
 from pypdf import PdfReader
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
-SOURCE_DIR = PROJECT_ROOT / "data" / "documents" / "infosys"
-OUTPUT_DIR = PROJECT_ROOT / "data" / "processed" / "infosys"
 
 
 def extract_pdf(pdf_path: Path) -> str:
@@ -24,14 +23,24 @@ def extract_pdf(pdf_path: Path) -> str:
 
 
 def main():
-    OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-    pdf_files = sorted(SOURCE_DIR.glob("*.pdf"))
-
-    if not pdf_files:
-        print("No PDF files found.")
+    if len(sys.argv) != 2:
+        print("Usage: python backend/rag/extract.py <company>")
         return
 
+    company = sys.argv[1].lower()
+
+    source_dir = PROJECT_ROOT / "data" / "documents" / company
+    output_dir = PROJECT_ROOT / "data" / "processed" / company
+
+    if not source_dir.exists():
+        print(f"No document folder found: {source_dir}")
+        return
+
+    output_dir.mkdir(parents=True, exist_ok=True)
+
+    pdf_files = sorted(source_dir.glob("*.pdf"))
+
+    print(f"Company: {company}")
     print(f"Found {len(pdf_files)} PDFs.")
 
     for pdf_path in pdf_files:
@@ -39,8 +48,11 @@ def main():
 
         text = extract_pdf(pdf_path)
 
-        output_path = OUTPUT_DIR / f"{pdf_path.stem}.txt"
-        output_path.write_text(text, encoding="utf-8")
+        output_path = output_dir / f"{pdf_path.stem}.txt"
+        output_path.write_text(
+            text,
+            encoding="utf-8",
+        )
 
         print(f"Saved: {output_path}")
 

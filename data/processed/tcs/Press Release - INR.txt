@@ -1,0 +1,572 @@
+
+--- PAGE 1 ---
+ 
+Page 1 of 12 
+ 
+  Ind-AS & IFRS ₹ 
+ 
+TCS sets course to become the world’s largest AI-led technology services company  
+ 
+Broad-based growth and disciplined execution delivers strong Q2 performance 
+ 
+- Announces strategic investments  
+- New business entity to build world class AI infrastructure - 1 GW capacity AI datacenter in India 
+- Board approves acquisition of ListEngage with deep capabilities in Salesforce 
+- Sustained investments in nurturing AI-first culture and talent - World’s largest ‘Ideate and Build 
+with AI’ Hackathon with 275,000 TCSers  
+ 
+MUMBAI, October 9, 2025: Tata Consultancy Services (BSE: 532540, NSE: TCS) reported its consolidated 
+financial results according to Ind AS and IFRS, for the quarter ending September 30, 2025. 
+ 
+Highlights of the Quarter Ended September 30, 2025  
+ 
+• Revenue at ₹65,799 crore, up 3.7% QoQ, Sequential growth: 0.8% in Constant Currency 
+• International Revenue grows 0.6% QoQ in Constant Currency  
+• Broad-based growth across verticals, led by continued m omentum in BFSI (+1.1% QoQ CC ), TSS 
+(+1.8% QoQ CC) 
+• Life Sciences and Healthcare (+3.4% QoQ CC), Manufacturing (+1.6% QoQ CC) and CMI (+0.8% QoQ 
+CC) deliver growth amidst industry specific challenges 
+• Operating Margin at 25.2%; an expansion of 70 bps QoQ  
+• Net Income at ₹12,904 crore, +8.4% YoY | Net Margin at 19.6%  
+• Cash flow from Operations at 110.1% of Net Income  
+• Q2 Total Contract Value (TCV): US$10 billion 
+• Dividend per share: ₹ 11| Record date October 15,2025| Payment date November 4,2025 
+ 
+ 
+K Krithivasan, Chief Executive Officer and Managing Director, said “I am  pleased with our strong Q2 
+performance. I would like to thank all our employees for their dedication and excellence.  We are on a journey 
+to become the world’s largest AI -led technology services c ompany.  Our journey is anchored in bold 
+transformation across talent, infrastructure, ecosystem partnerships and customer value. The investments 
+including the building of a world-class AI infrastructure business demonstrate our commitment  to this 
+transformation.” 
+
+--- PAGE 2 ---
+ 
+Page 2 of 12 
+ 
+ 
+Aarthi Subramanian, Executive Director - President and Chief Operating Officer, said “We delivered strong 
+growth mome ntum led by Data, Cloud and AI powered enterprise transformation. Our customer 
+engagements are focused on rapid value realization to deliver speed, efficiency and growth. TCS' AI 
+Hackathon set a new benchmark – is the largest, most diverse and innovative AI- first culture building 
+initiative. Our new AI and Services Transformation unit will further scale and integrate our efforts.”  
+ 
+Samir Seksaria, Chief Financial Officer, said, “We achieved good growth momentum across all verticals this 
+quarter. Our disciplined execution helped us expand  our margins while making strategic investments. We 
+have prioritized wage hikes, building future-ready capabilities and establishing new ecosystem partnerships. 
+Looking ahead, our financial resilience and robust balance sheet will support both internal transformation 
+initiatives and external investments aligned with our aspiration.”  
+ 
+Sudeep Kunnumal, Chief HR Officer, said: “I am honoured to take over this responsibility as we chart our 
+path to becoming the world’s largest AI-led technology services company.  I look forward to working with 
+our employees and all stakeholders as we pursue this exciting vision”.  
+ 
+ 
+Q2 FY26 Segment Highlights 
+Growth by Domain 
+Industry Composition (%) Q-o-Q 
+CC Growth 
+(%) 
+Y-o-Y 
+CC Growth 
+(%) 
+Q2 FY25 Q1 FY26 Q2 FY26 
+BFSI 30.8 32.0 32.2  1.1  1.0 
+Consumer Business 15.2 15.6 15.3 - 1.0 - 2.9 
+Life Sciences & Healthcare 10.3 10.2 10.5  3.4 - 2.2 
+Manufacturing 8.6 8.7 8.8  1.6 - 1.1 
+Technology & Services 8.0 8.4 8.5  1.8  2.8 
+Communication & Media 5.9 5.8 5.9  0.8 - 5.1 
+Energy, Resources and Utilities 5.7 5.9 5.9  0.6  0.2 
+Regional Markets & Others 15.5 13.4 12.9 - 1.1 - 18.1 
+Total 100.0 100.0 100.0  0.8 - 3.3 
+ 
+ 
+  
+
+--- PAGE 3 ---
+ 
+Page 3 of 12 
+ 
+Growth by Markets 
+Geography Composition (%) Q-o-Q 
+CC Growth 
+(%) 
+Y-o-Y 
+CC Growth 
+(%) 
+Q2 FY25 Q1 FY26 Q2 FY26 
+Americas      
+    North America 47.6 48.7 48.8  0.8 - 0.1 
+    Latin America 1.8 1.9 1.9  0.3  1.8 
+Europe           
+   UK 17.0 18.0 17.5 - 1.4 - 1.9 
+   Continental Europe 14.6 15.0 15.3  1.4 - 3.0 
+Asia Pacific 8.0 8.4 8.3  0.3  2.0 
+India 8.9 5.8 5.8  4.0 - 33.3 
+MEA 2.1 2.2 2.4  5.9  12.7 
+Total 100.0 100.0 100.0 0.8 -3.3 
+ 
+ 
+Key Highlights: 
+ 
+• Expanded strategic partnership with Tryg, a leading Scandinavian non-life insurance company that 
+operates in Denmark, Sweden, and Norway. As part of the seven -year $647 million agreement, TCS 
+will partner with Tryg to simplify and standardise operations across its three major markets and drive 
+technological transformation, to accelerate the company’s growth journey. 
+ 
+• A leading global healthcare company  is significantly expanding its strategic partnership with TCS 
+through a multi -year multi- hundred-million-dollar contract that aims to accelerate growth and 
+transformation across value -based care, health benefits, pharmacy services, and customer 
+experience. The partnership encompasses a broad scope of services, including AI, cloud solutions, 
+data management, digital services, cybersecurity, enterprise solutions, and innovation. This 
+achievement stands as a testament to TCS's deep domain expertise, AI-led delivery capabilities, and 
+strategic investments in innovation, positioning the company as a trusted transformation and 
+Innovation partner. 
+ 
+• ALDI SOUTH has extended its strategic partnership with TCS to modernize its IT infrastructure and 
+application landscape across continents. As part of this engagement, TCS will deliver its Cloud 
+Operations Solution to drive automation, strengthen cyber resilience, and  enhance service delivery 
+while reducing costs and complexity. This long-term collaboration reinforces TCS’s role as ALDI 
+SOUTH’s trusted technology partner, enabling the retailer to build a scalable, adaptive, and future -
+ready enterprise. 
+ 
+• Expanded collaboration with Weatherford International, a multinational oilfield service company 
+headquartered in North America , with a focus on enhancing operational efficiencies across critical 
+domains such as finance, supply chains, and human resources  using advanced AI solutions. TCS will 
+leverage its expertise in automation, artificial intelligence, and digital optimization to drive 
+enterprise-wide business transformation initiatives for Weatherford.  
+ 
+• Partnered with NOW Corporation’s telecom arm , to bolster national digital sovereignty, enable 
+financial inclusivity, and build a clean network for the Philippines. Through this Memorandum of 
+Understanding (MoU), TCS commits itself to support the company with capabilities to expand trusted 
+
+--- PAGE 4 ---
+ 
+Page 4 of 12 
+ 
+networks, provide sovereign cloud technology and a cyber-defense suite, along with creating robust 
+citizen-centric services. 
+ 
+• Launched a new AI-driven operations center in Mexico City, reiterating the company’s commitment 
+to continue accelerating innovation in Mexico and Latin America. The new office in Mexico City is 
+TCS’ eighth operations center in Mexico where the company has built a workforce of over 11,000 
+highly skilled associates over the last 22 years. 
+ 
+• Selected by Kesko , a leading Finnish retail group, as its strategic IT partner to spearhead the 
+transformation of its core technology landscape across the Nordics and Baltics. This partnership is 
+set to play a pivotal role in Kesko’s journey to modernize operations, enhance business agility, and 
+support its long-term growth and expansion ambitions in grocery, car, building and technical trades 
+across multiple geographies and sectors. 
+ 
+• Enabled ICICI Lombard  to achieve fully automated AWS multi- region Disaster Recovery (DR) 
+switchover. This establishes ICICI Lombard as one of the first insurance companies in India to achieve 
+fully automated multi-region resilience on the Amazon Web Services (AWS) Cloud. 
+ 
+• Announced a partnership with Unilab, Inc., a leading pharmaceutical and healthcare company  in 
+the Philippines, to modernize its core business systems through a strategic cloud migration. This 
+transformation will strengthen Unilab’s digital infrastructure, enhance operational agility, and drive 
+long-term business growth. 
+ 
+• Announced a multi -year partnership with ARN Media , one of Australia’s leading audio -led 
+entertainment companies, to streamline operations, bringing together automation, global delivery 
+optimization, and creating a cloud-first data platform. 
+ 
+• Announced the launch of Chiplet -based System Engineering Services , designed to help 
+semiconductor companies push the boundaries of traditional chip design. By using chiplets (which 
+are small integrated circuits that serve as building blocks of larger chips), TCS is enabling chipmakers 
+to deliver faster, efficient, and more powerful processors at a time when global demand for advanced 
+semiconductors is soaring. 
+ 
+• Announced strategic partnership with The Warehouse Group, largest retailing group in New Zealand, 
+to support the next phase of the retailer’s digital transformation journey. Under the scope of the 
+partnership, TCS will focus on technology modernization and transformation by streamlining and 
+consolidating platforms and maximizing value from existing investments across the end-to-end retail 
+value chain. TCS will support the Group in building the capabilities and services needed to improve 
+performance. 
+ 
+• Selected by a leading Australian bank to transform its Mortgage and Institutional Banking back-
+oﬃce operations. As part of the engagement, TCS will help the bank improve operational eﬃciency 
+and elevate experience by embedding advanced AI and GenAI solutions into its core processes. This, 
+combined with intelligent automation and data-driven insights, will enable the bank to speed up 
+decision-making, improve accuracy, and ensure seamless service delivery across the critical banking 
+functions. 
+ 
+
+--- PAGE 5 ---
+ 
+Page 5 of 12 
+ 
+• Expanded our strategic partnership with a large U.S. Insurer to help them drive operational stability, 
+optimize cost, and enhance productivity in the infrastructure engineering space. As a part of this 
+multi-year deal, TCS will consolidate multiple infrastructure technology towers across Site Reliability, 
+Database Reliability & Cloud Operations. By adopting a scalable operating model and leveraging 
+advanced software engineering and AI, TCS will also assist in migrating critical application workloads 
+to a new infrastructure. The transformation will not only build reliability in operations but also set 
+Insurer on the path of long-term sustained growth. 
+ 
+• A leading North American enterprise networking company  has selected TCS as a partner for AI-
+infused Application Maintenance and Support across Enterprise functions. As part of the deal, TCS 
+will also expand  the Full Stack Ob servability Lab services to further strengthen end -to-end 
+monitoring. By integrating cognitive  a u t o m a ti o n  a t  t h e  c o r e  o f  I T  o p e r a ti o n s ,  T C S  a i m s  t o  d e l i v e r  
+substantial cost eﬃciencies and increased business value over the three -year duration of the 
+agreement. 
+ 
+• Expanded strategic partnership with an Australia-based integrated infrastructure services provider 
+for its AI-driven business operations. TCS has been a strategic partner spanning across transformation 
+and managed services programs across Cloud, Infrastructure, Enterprise Solutions.  In the quarter 
+gone by, the client further advanced its partnership with TCS for advanced AI platform such as ignio™ 
+and AI WisdomNext, and consultation of ERPs for achieving operational efficiency, resilience and TCO 
+reduction. 
+ 
+• TCS has extended its partnership with a leading US insurer to drive technology and business 
+transformation initiatives, and enable the client’s shift toward an AI -driven future. TCS will provide 
+enhanced support across key areas including Insurance and Ret irement, Investment Solutions, 
+Technology, Cybersecurity, Marketing, Actuarial, and Data Management. This extension reaffirms 
+TCS’ role as a trusted transformation partner, committed to delivering innovation, and long -term 
+value. 
+ 
+• TCS has secured a multi- year strategic partnership with a leading UK -based Insurance services 
+provider to transform and manage its digital platforms. TCS will deploy AI based innovative solutions 
+to build an integrated engineering platform to optimize IT C hange and Operations. Additionally, 
+Agentic AI- enabled solutions will be delivered across front and back -office functions to enhance 
+operational efficiency and elevate customer experience. 
+ 
+Customer Speak: 
+ 
+“We are simplifying our IT landscape enabling us to further invest in new technology and develop our 
+business across Scandinavia. This means we can deliver the best customer experiences, continue to 
+differentiate Tryg in the market, and strengthen our comp etitiveness. The extended partnership with TCS, 
+which is one of the leading technology companies in the world, is a key initiative supporting our 2027 target 
+to simplify and scale Tryg’s business. TCS is the right partner to assure an important contributio n towards 
+achieving our ambition.” 
+Johan Kirstein Brammer, Group CEO, Tryg 
+  
+
+--- PAGE 6 ---
+ 
+Page 6 of 12 
+ 
+ 
+“With the energy sector facing rapid technological advancements and heightened demands for efficiency, 
+this renewed partnership with TCS underscores the strategic importance of integrating AI -driven solutions 
+and process optimization. These innovations are  crucial not only to drive operational excellence but to 
+position Weatherford as a leader in adapting to the evolving industry landscape. By leveraging TCS’ expertise, 
+we aim to enhance scalability, foster innovation, and ensure sustainable growth while re inforcing our 
+commitment to delivering unmatched value to our customers.”  
+Girish Saligram, President and CEO at Weatherford International 
+“The NOW Group warmly welcomes the partnership with TCS in building the Sovereign Data Cloud 
+Infrastructure for both the public and private sectors in the Indo-Pacific region. This partnership with TCS, a 
+global market giant, marks a significant step towards enhancing our national digital sovereignty and reducing 
+reliance on foreign technologies. NOW’s and TCS’ expertise and innovative services will contribute to our 
+nation’s data sovereignty by defending against risks and threats while creating a scalable, secure, and robust 
+data infrastructure. The partnership between NOW and TCS exemplifies the technological aspirations of both 
+India and the Philippines, heralding a new dawn of critical digital transformation for the Philippines.” 
+Mel Velarde, Chairman of the NOW Group 
+“As the biggest trading sector operator in Finland and one of the biggest in Northern Europe, we are always 
+working to stay competitive and bring our large and diverse customer bases more value. That is why we are 
+partnering with TCS to continuously improv e our quality, efficiency and the multichannel customer 
+experience, while staying innovative and resilient amidst uncertainties in the operating environment.” 
+Arto Hiltunen, Chief Information Officer, Kesko 
+“With resilience at the core of our digital operating model, and TCS as our strategic technology partner, we’ve 
+been able to transform our disaster recovery capabilities into a truly agile, automated and cloud-native setup. 
+This not only enhances our readi ness for unexpected infrastructure disruptions but also reinforces our 
+commitment to uninterrupted service to our customers. I would like to thank and congratulate TCS for 
+enabling this automated disaster recovery solution by leveraging their cloud expertise in the insurance 
+domain.” 
+Girish Nayak, Chief – Technology and Health (Underwriting & Claims), ICICI Lombard 
+“We’ve spent the past year lowering costs, but this partnership allows us to go deeper. TCS will build on our 
+current cost initiatives and unlock the capability and capacity to obtain more value from the technology 
+investments we’ve made to date. The partn ership is estimated to reduce costs in licenses  and managed 
+services by up to $40 million over five years and will help free up our technology teams to focus on what 
+matters most, delivering more value for our customers, communities, and shareholders.” 
+Mark Stirton, Group Chief Executive Officer, The Warehouse Group 
+“ARN’s ambition is to be Australia’s leading All Audio company, focused on growing our audiences across 
+every platform and device, driving innovation and delivering outstanding commercial performance. Our focus 
+is on ensuring we can deliver on our ambitions by streamlining how we work and introducing smarter tools 
+and systems. Our strategic partnership with TCS is a significant step towards building a leaner, more agile 
+organisation that is investing in core activities of content creation, audience growth and digital capability.” 
+Ciaran Davis, Chief Executive Officer, ARN 
+ 
+  
+
+--- PAGE 7 ---
+ 
+Page 7 of 12 
+ 
+“We’ve partnered with TCS for our digital transformation, enhancing our infrastructure in line with our 
+EveryWhen rebranding. The adoption of Generative AI marks not just a technology upgrade, but signifies a 
+cultural shift, enabling AI-driven operations powered by the Azure OpenAI platform. Collaborating with TCS, 
+we aim to elevate intelligent automation and establish a unified ecosystem. Our vision is to create an AI -
+driven enterprise where HR, Finance, and other functions cohesively collaborate, enhancin g operational 
+resiliency while driving efficiency and delivering a superior experience for both employees and customers.”  
+Tom Clark – CTO, Ardonagh Advisory 
+ 
+Research and Innovation: 
+ 
+As on September 30, 2025, the company applied for 9,226 patents, including 239 applied during the quarter, 
+and has been granted 5,086 patents including 147 granted during the quarter. 
+ 
+Key highlights during the quarter: 
+ 
+• Partnered with CEA,  among the world’s most innovative research institutions  to accelerate 
+innovation and industrialization of Physical AI solutions. Physical AI is focused on bringing together 
+robotics, artificial intelligence, and intelligent systems to help machines perceive, interpret, and 
+interact with the physical world, thu s advancing digital transformation and modernization of 
+industrial processes. TCS and CEA’s leading French research institute for intelligent digital systems, 
+will drive the design, development, and deployment of cutting-edge Physical AI-powered systems for 
+real-world applications. 
+ 
+• Partnered with Qualcomm  to set up the ‘TCS Innovation Lab’, a space for co -innovation with 
+Qualcomm in Bengaluru. TCS and Qualcomm will co-create smart, scalable, and sustainable Edge AI 
+capabilities utilising Qualcomm® platforms for industries moving towards a software-driven approach 
+to make their systems more efficient and resilient in the lab. The co -innovation lab will enable the 
+creation of customised low -cost solutions that can be deployed on intelligent devices, on location 
+and in real time to streamline processes at large enterprises. 
+ 
+• Signed a Memorandum of Understanding (MoU) with the Centre for Development of Advanced 
+Computing (C-DAC) to accelerate the development of India’s sovereign cloud ecosystem. As India 
+doubles down on self -reliant and secure digital infrastructure, this collaboration aims to deliver 
+scalable, and AI -enabled cloud platforms that align with India’s data localizat ion mandates and 
+support the digital transformation of critical public sector services. 
+ 
+• Collaborated with MIT Sloan Management Review  to launch a  new research series  to explore the 
+next phase of human and AI collaboration in large enterprises. As enterprises the world over are 
+proactively investing in deploying AI-led solutions to transform their business operations, this multi-
+sectoral study deeply examines the new paradigms that will redefine the use of AI in global enterprise 
+environments. 
+ 
+• Partnered with the Indian Institute of Technology Kanpur, to address one of India’s most pressing 
+challenges: sustainable urbanization. AIRAWAT Research Foundation was set up by IIT Kanpur with 
+support from the Ministry of Education and the Ministry of Housing and Urban Affairs to rethink the 
+way we build our c ities. As part of this partnership, TCS and the Foundation will leverage AI and 
+advanced technologies to tackle the challenge of urban planning at scale, in India. 
+ 
+
+--- PAGE 8 ---
+ 
+Page 8 of 12 
+ 
+Awards and Recognition: 
+ 
+• Ranked among top 20 global technology brands in Brand Finance’s Technology 100 2025 list 
+• Captured the Newsweek America's Greatest Workplaces by State (New York) award, underscoring 
+its credentials as an excellent employer. 
+• Won the  UK Service Provider for the Year 2025  along with  three other recognitions 
+including Strategic Sourcing team of the year, Utilities programme of the year and Business Service 
+Programme of the year by Global Sourcing Association—UK 
+• Won the Excellence in Innovation Award at Red Hat Ecosystem Awards 2025 
+• Ranked #1 for its Agentic AI healthcare demo at the Amazon Nova Partner Demo competition 
+• In partnership with Lloyds Banking Group won the  Cloud Management Solution of the Year 
+Award at Cloud Excellence Awards 2025, for Adaptive Cloud Management Suite 
+• Awarded at the AXA Supplier Event 2025 for Establishing Quality of Services (QoS) Foundations 
+• Won multiple Stevie International Business Awards  for excellence in brand experience, 
+sustainability, products & services, and technology 
+• Received multiple recognitions at the Brandon Hall Group excellence awards 2025 for implementing 
+learning strategies, talent management, mentoring, talent development initiatives, diversity, 
+compliance and several HR programs 
+• Won 4 Gold awards at the Inquirer ESG Edge Impact Awards 2025 
+• Customer Intelligence & Insights ™ for retail won  the 2025 MarTech Breakthrough Award for 
+Marketing Leadership - Best Retail Technology Solution 
+ 
+Industry Analyst Assessments: 
+ 
+TCS was positioned the foremost Leader or ranked #1 in 7 competitive assessments published by leading 
+research firms in Q2 FY26.  
+ 
+TCS was ranked a Leader in other 54 competitive assessments published by leading research firms in Q2 
+FY26.  
+ 
+ 
+Analyst Firm Firm Wise 
+Report Type Report Title 
+Gartner Market 
+Quadrant 
+Emerging Market Quadrant for Generative AI Consulting and 
+Implementation Services* 
+Everest PEAK Matrix Financial Crime and Compliance (FCC) Operations Services PEAK 
+Matrix® Assessment 2025* 
+NelsonHall NEAT Mortgage & Loan Services 2025* 
+
+--- PAGE 9 ---
+ 
+Page 9 of 12 
+ 
+Analyst Firm Firm Wise 
+Report Type Report Title 
+Everest PEAK Matrix Digital Workplace Services PEAK Matrix® Assessment 2025 – 
+Global* 
+TechMarketView Ranking Report UK Applications Operations Market: Suppliers, Trends & Forecasts 
+2025* 
+IDC MarketScape IDC MarketScape: India IT/Digital Transformation Services for 
+Public Sector 2025 Vendor Assessment* 
+Everest PEAK Matrix Talent Readiness for Next-generation Cloud Services PEAK 
+Matrix® Assessment 2025* 
+ 
+  
+
+--- PAGE 10 ---
+ 
+Page 10 of 12 
+ 
+IFRS Financial Statements 
+ 
+Consolidated Statements of Comprehensive Income 
+For the three-month periods ended Sep 30, 2024, June 30, 2025, and Sep 30, 2025 
+(In millions of ₹, except per share data) 
+ 
+  Three-month 
+period ended Sep 
+30, 2024 
+Three-month 
+period ended June 
+30, 2025 
+Three-month 
+period ended Sep 
+30, 2025* 
+Revenue 642,590  634,370  657,990  
+Cost of revenue 397,200  386,120  397,580  
+Gross margin 245,390  248,250  260,410  
+SG & A expenses 90,740  93,110  94,760  
+Operating income 154,650  155,140  165,650  
+Other income (expense), net 5,670  14,650  6,380  
+Income before income taxes 160,320  169,790  172,030  
+Income taxes 40,770  41,600  42,430  
+Income after income taxes 119,550  128,190  129,600  
+Non-controlling interests 460  590  560  
+Net income 119,090  127,600  129,040  
+ Earnings per share in ₹ 32.92 35.27  35.67  
+ 
+ 
+Consolidated Statements of Financial Position 
+As of March 31, 2025, and Sep 30, 2025 
+(In millions of ₹) 
+ 
+ As of March 31,  
+2025 
+As of Sep 30,  
+2025 
+Assets 
+Property and equipment 129,320  135,850  
+Right-of-use Assets 92,750  106,920  
+Intangible assets and Goodwill 49,640  47,470  
+Accounts Receivable 502,330  543,010  
+Unbilled Revenues 154,700  166,340  
+Invested Funds 472,220  559,500  
+Other current assets 124,860  116,330  
+Other non-current assets 91,730  98,030  
+Total Assets 1,617,550  1,773,450  
+Liabilities and Shareholders' Equity 
+Shareholders' Funds 968,820  1,085,410  
+Current liabilities 530,010  552,840  
+Non-current liabilities 108,570  124,740  
+Non-controlling interests 10,150  10,460  
+Total Liabilities 1,617,550  1,773,450  
+ 
+ 
+*Excludes one off Re-structuring expenses of Rs 11,350 Mn. 
+
+--- PAGE 11 ---
+ 
+Page 11 of 12 
+ 
+Ind AS Financial Statements 
+ 
+Consolidated Statement of Profit and Loss 
+For the Quarter ended Sep 30, 2024, June 30, 2025, and Sep 30, 2025 
+(In ₹ crore, except per share data) 
+  
+ 
+Consolidated Balance Sheet 
+As at March 31, 2025 and Sep 30, 2025 
+(In crores of ₹) 
+ As at March 31,  
+2025  
+As at Sep 30,  
+2025 
+ASSETS 
+Property and equipment 12,524  13,107  
+Right-of-use assets 9,275  10,692  
+Intangible assets and Goodwill 2,800  2,571  
+Accounts Receivable 50,233  54,301  
+Unbilled Revenues 15,470  16,634  
+Invested Funds 47,222  55,950  
+Other current assets 12,486  11,633  
+Other non-current assets 9,619  10,331  
+Total Assets 159,629  175,219  
+EQUITY AND LIABILITIES 
+Shareholders' Funds 94,756  106,415  
+Current liabilities 53,001  55,284  
+Non-current liabilities 10,857  12,474  
+Non-controlling interests 1,015  1,046  
+Total Liabilities 159,629  175,219  
+ 
+#### 
+  Quarter ended  
+Sep 30, 2024 
+Quarter ended  
+June 30, 2025 
+Quarter ended  
+Sep 30, 2025* 
+Revenue 64,259  63,437  65,799  
+Expenditure       
+ a) Employee Costs 36,654  37,715  38,606  
+ b) Cost of equipment and software licences 3,230  726  967  
+ c) Other Operating expenses 7,644  8,121  8,248  
+ d) Depreciation 1,266  1,361  1,413  
+Total Expenditure  48,794  47,923  49,234  
+Profit Before Taxes & Other Income 15,465  15,514  16,565  
+Other income (expense), net 567  1,465  638  
+Profit Before Taxes 16,032  16,979  17,203  
+Provision For Taxes 4,077  4,160  4,243  
+Profit After Taxes & Before Non-controlling 
+interests 
+11,955  12,819  12,960  
+Non-controlling interests 46  59  56  
+Net Profit 11,909  12,760  12,904  
+ Earnings per share in ₹ 32.92  35.27  35.67  
+*Excludes one off Re-structuring expenses of Rs 1,135 Crore. 
+
+--- PAGE 12 ---
+ 
+Page 12 of 12 
+ 
+ 
+About Tata Consultancy Services Ltd (TCS) 
+Tata Consultancy Services (TCS) (BSE: 532540, NSE: TCS) is a digital transformation and technology partner of choice for 
+industry-leading organizations worldwide. Since its inception in 1968, TCS has upheld the highest standards of 
+innovation, engineering excellence and customer service. 
+Rooted in the heritage of the Tata Group, TCS is focused on creating long term value for its clients, its investors, its 
+employees, and the community at large. With a highly skilled workforce spread across 55 countries and 202 service 
+delivery centers across the world, the company has been recognized as a top employer in six continents. With the ability 
+to rapidly apply and scale new technologies, the company has built long term partnerships with its clients – helping 
+them emerge as perpetually adaptive enterprises. Many of these relationships have endured into decades and navigated 
+every technology cycle, from mainframes in the 1970s to Artificial Intelligence today. 
+TCS sponsors 14 of the world’s most prestigious marathons and endurance events, including the TCS New York City 
+Marathon, TCS London Marathon and TCS Sydney Marathon with a focus on promoting health, sustainability, and 
+community empowerment. 
+TCS generated consolidated revenues of over US $30 billion in the fiscal year ended March 31, 2025.  For more 
+information, visit www.tcs.com 
+Follow TCS on LinkedIn| Instagram | YouTube| X 
+TCS media contacts: 
+Corporate Communications & 
+India  
+Email: corporate.communications@tcs.com  
+Email: saxena.kritika@tcs.com | Phone: +91 22 6778 9999  
+Email: shreya.bhandary@tcs.com| Phone: +91 22 67789098  
+Asia Pacific  Email: y.tham@tcs.com| Phone: +659270 4560  
+Australia and New Zealand  Email: francesca.Newby@tcs.com   | Phone: +61 414 902 440 
+Canada   Email: tiffany.fisher@tcs.com | Phone: +1 416 456 7650    
+Europe  Email: roland.bagen@tcs.com | Phone: +46 70 3178024  
+Middle East & Africa  Email: pragya.priyadarshini@tcs.com | Phone: +971 528656700  
+Japan  Email: douglas.foote@tcs.com | Phone: +81 80-2115-0989  
+Latin America  Email: maria.calabrese@tcs.com | Phone: +569 91291605 
+UK  Email: priyanka.mehta@tcs.com  | Phone: +44 7921493382 
+USA   Email: andrew.corcione@tcs.com | Phone: +1 646 617 8221 
+ 
+ 
+### 
+ 
+ 
+ 
+ 
