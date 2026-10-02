@@ -25,6 +25,7 @@ urlpatterns = [
     path('api/v1/funds/nav/<str:scheme_code>', views.fund_nav, name='fund-nav'),
     path('api/v1/funds/compare', views.fund_compare, name='fund-compare'),
     path('api/v1/macro', views.macro_data, name='macro-data'),
+    path('api/v1/documents/<str:company>/<str:document>/pdf', views.source_pdf, name='source-pdf'),
     path('api/v1/ask', views.ask_post, name='ask'),
     path('api/v1/calculate', views.calculate_api, name='calculate'),
     path('api/v1/prices/<str:ticker>', views.price_lookup_api, name='price-lookup'),

@@ -1,0 +1,25 @@
+{
+  "dataset": "finsight-finqa-style-v1",
+  "questions": [
+    {"company":"tcs","question":"What was TCS revenue for FY2026?","expected_terms":["267,021","FY26"]},
+    {"company":"tcs","question":"What was TCS operating margin for FY2026?","expected_terms":["25%","operating margin"]},
+    {"company":"tcs","question":"What was the year-on-year growth in TCS FY2026 revenue?","expected_terms":["4.6%","YoY"]},
+    {"company":"tcs","question":"What was TCS Q4 FY2026 revenue in US dollars?","expected_terms":["7.621 billion","7.621"]},
+    {"company":"tcs","question":"What operating margin did TCS report for Q4 FY2026?","expected_terms":["25.3%"]},
+    {"company":"tcs","question":"By how many basis points did TCS FY2026 operating margin expand?","expected_terms":["70 basis","70 bps"]},
+    {"company":"tcs","question":"What annualized AI revenue did TCS report in its FY2026 earnings call?","expected_terms":["$2.3 billion","2.3 billion"]},
+    {"company":"tcs","question":"What did TCS say about its FY2026 revenue growth in constant currency?","expected_terms":["constant currency","FY 2026"]},
+    {"company":"tcs","question":"What was the sequential Q4 revenue growth in constant currency?","expected_terms":["1.2%","constant currency"]},
+    {"company":"tcs","question":"What was TCS Q4 FY2026 operating margin change sequentially?","expected_terms":["25.3%","10 basis"]},
+    {"company":"infosys","question":"What operating margin did Infosys report for Q3 FY2025?","expected_terms":["21.3%"]},
+    {"company":"infosys","question":"How did Infosys Q3 FY2025 operating margin change sequentially?","expected_terms":["0.8%","increase"]},
+    {"company":"infosys","question":"What was Infosys free cash flow conversion to net profit in Q3 FY2025?","expected_terms":["156.1%"]},
+    {"company":"infosys","question":"What free cash flow did Infosys report in Q2 FY2025?","expected_terms":["839 mn","839 million"]},
+    {"company":"infosys","question":"What operating margin did Infosys report for Q2 FY2025?","expected_terms":["21.1%"]},
+    {"company":"infosys","question":"What was Infosys H1 FY2025 revenue growth in constant currency?","expected_terms":["2.9%","constant currency"]},
+    {"company":"infosys","question":"What operating margin guidance did Infosys give for FY2025?","expected_terms":["20% to 22%","20%-22%"]},
+    {"company":"infosys","question":"What revenue growth guidance did Infosys give for FY2025 in constant currency?","expected_terms":["3.75% to 4.5%","3.75%"]},
+    {"company":"infosys","question":"What was Infosys Q2 FY2025 free-cash-flow conversion?","expected_terms":["107.6%"]},
+    {"company":"infosys","question":"Summarize the management explanation for the Q3 FY2025 margin movement.","expected_terms":["operating margin","21.3%"]}
+  ]
+}

@@ -85,7 +85,10 @@ WSGI_APPLICATION = 'config.wsgi.application'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.AllowAny'],
-    'DEFAULT_THROTTLE_CLASSES': ['rest_framework.throttling.AnonRateThrottle', 'rest_framework.throttling.UserRateThrottle'],
+    # Local development commonly repeats the same requests while configuring
+    # providers and RAG. Keep public API throttling enabled for production,
+    # while avoiding confusing 429s during the single-user local run.
+    'DEFAULT_THROTTLE_CLASSES': [] if DEBUG else ['rest_framework.throttling.AnonRateThrottle', 'rest_framework.throttling.UserRateThrottle'],
     'DEFAULT_THROTTLE_RATES': {'anon': '30/min', 'user': '60/min'},
 }
 LOGGING = {
