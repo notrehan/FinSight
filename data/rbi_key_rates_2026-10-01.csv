@@ -1,0 +1,10 @@
+series,period,value,unit,observed_at,source_url
+Policy Repo Rate,2026-10-01,5.25,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+Standing Deposit Facility Rate,2026-10-01,5.00,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+Marginal Standing Facility Rate,2026-10-01,5.50,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+Bank Rate,2026-10-01,5.50,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+Fixed Reverse Repo Rate,2026-10-01,3.35,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+Cash Reserve Ratio,2026-10-01,3.00,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+Statutory Liquidity Ratio,2026-10-01,18.00,percent,2026-10-01T13:00:00+05:30,https://m.rbi.org.in/home.aspx
+CPI Inflation (Combined, YoY),2026-08,4.82,percent,2026-09-14T16:00:00+05:30,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2310058&lang=1&reg=19
+WPI Inflation (All Commodities, YoY),2026-08,9.92,percent,2026-09-14T12:01:00+05:30,https://www.pib.gov.in/PressReleasePage.aspx?PRID=2309977&lang=1&reg=3

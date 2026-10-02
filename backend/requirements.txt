@@ -1,0 +1,17 @@
+Django>=5.2,<6.2
+python-dotenv>=1.0,<2
+djangorestframework>=3.16,<4
+PyMySQL>=1.1,<2
+pydantic>=2.10,<3
+openai>=1.70,<3
+google-genai>=1.20,<2
+langgraph>=0.3,<2
+sentence-transformers>=4.1,<6
+faiss-cpu>=1.10,<2
+numpy>=1.26,<3
+yfinance>=0.2.65,<2
+requests>=2.32,<3
+pypdf>=5.5,<7
+redis>=5,<7
+whitenoise>=6.9,<7
+gunicorn>=23,<24

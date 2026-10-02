@@ -10,7 +10,14 @@ For the full list of settings and their values, see
 https://docs.djangoproject.com/en/6.1/ref/settings/
 """
 
+import os
 from pathlib import Path
+from django.core.exceptions import ImproperlyConfigured
+try:
+    from dotenv import load_dotenv
+    load_dotenv(Path(__file__).resolve().parents[2] / '.env')
+except ImportError:
+    pass
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -20,12 +27,15 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/6.1/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-=oaoxk71&c*57s-!pr8)@y$*zbh!(bmkw^am!0*x4sh-vzp)(n'
+SECRET_KEY = os.getenv('DJANGO_SECRET_KEY', 'local-development-only-change-before-deploy')
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = os.getenv('DJANGO_DEBUG', 'true').lower() == 'true'
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [item.strip() for item in os.getenv('DJANGO_ALLOWED_HOSTS', 'localhost,127.0.0.1').split(',') if item.strip()]
+CSRF_TRUSTED_ORIGINS = [item.strip() for item in os.getenv('DJANGO_CSRF_TRUSTED_ORIGINS', '').split(',') if item.strip()]
+if not DEBUG and (SECRET_KEY == 'local-development-only-change-before-deploy' or '*' in ALLOWED_HOSTS or not ALLOWED_HOSTS):
+    raise ImproperlyConfigured('Set a unique DJANGO_SECRET_KEY and explicit DJANGO_ALLOWED_HOSTS in production.')
 
 
 # Application definition
@@ -38,11 +48,14 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
 
+    'rest_framework',
     "memory",
 ]
 
 MIDDLEWARE = [
+    'config.middleware.CorrelationIdMiddleware',
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
     'django.middleware.csrf.CsrfViewMiddleware',
@@ -69,21 +82,36 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'config.wsgi.application'
+DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+REST_FRAMEWORK = {
+    'DEFAULT_PERMISSION_CLASSES': ['rest_framework.permissions.AllowAny'],
+    # Local development commonly repeats the same requests while configuring
+    # providers and RAG. Keep public API throttling enabled for production,
+    # while avoiding confusing 429s during the single-user local run.
+    'DEFAULT_THROTTLE_CLASSES': [] if DEBUG else ['rest_framework.throttling.AnonRateThrottle', 'rest_framework.throttling.UserRateThrottle'],
+    'DEFAULT_THROTTLE_RATES': {'anon': '30/min', 'user': '60/min'},
+}
+LOGGING = {
+    'version': 1,
+    'disable_existing_loggers': False,
+    'formatters': {'json': {'()': 'config.logging.JsonLogFormatter'}},
+    'handlers': {'console': {'class': 'logging.StreamHandler', 'formatter': 'json'}},
+    'root': {'handlers': ['console'], 'level': os.getenv('LOG_LEVEL', 'INFO')},
+}
 
 
 # Database
 # https://docs.djangoproject.com/en/6.1/ref/settings/#databases
 
-DATABASES = {
-    "default": {
-        "ENGINE": "django.db.backends.mysql",
-        "NAME": "finsight",
-        "USER": "root",
-        "PASSWORD": "",
-        "HOST": "localhost",
-        "PORT": "3306",
-    }
-}
+if os.getenv('DB_ENGINE', 'sqlite').lower() == 'mysql':
+    DATABASES = {'default': {
+        'ENGINE': 'django.db.backends.mysql', 'NAME': os.getenv('MYSQL_DATABASE', 'finsight'),
+        'USER': os.getenv('MYSQL_USER', 'finsight'), 'PASSWORD': os.getenv('MYSQL_PASSWORD', ''),
+        'HOST': os.getenv('MYSQL_HOST', '127.0.0.1'), 'PORT': os.getenv('MYSQL_PORT', '3306'),
+        'OPTIONS': {'charset': 'utf8mb4', 'connect_timeout': 5},
+    }}
+else:
+    DATABASES = {'default': {'ENGINE': 'django.db.backends.sqlite3', 'NAME': BASE_DIR / 'db.sqlite3'}}
 
 
 # Password validation
@@ -110,7 +138,7 @@ AUTH_PASSWORD_VALIDATORS = [
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'UTC'
+TIME_ZONE = 'Asia/Kolkata'
 
 USE_I18N = True
 
@@ -121,6 +149,18 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/6.1/howto/static-files/
 
 STATIC_URL = 'static/'
+STATIC_ROOT = BASE_DIR / 'staticfiles'
+STORAGES = {
+    'default': {'BACKEND': 'django.core.files.storage.FileSystemStorage'},
+    'staticfiles': {'BACKEND': 'whitenoise.storage.CompressedManifestStaticFilesStorage'},
+}
+SESSION_COOKIE_HTTPONLY = True
+SESSION_COOKIE_SAMESITE = 'Lax'
+SESSION_COOKIE_SECURE = not DEBUG
+CSRF_COOKIE_SECURE = not DEBUG
+SECURE_PROXY_SSL_HEADER = ('HTTP_X_FORWARDED_PROTO', 'https')
+SECURE_SSL_REDIRECT = os.getenv('SECURE_SSL_REDIRECT', 'false' if DEBUG else 'true').lower() == 'true'
+CACHES = {'default': ({'BACKEND': 'django.core.cache.backends.redis.RedisCache', 'LOCATION': os.environ['REDIS_URL']} if os.getenv('REDIS_URL') else {'BACKEND': 'django.core.cache.backends.locmem.LocMemCache', 'LOCATION': 'finsight-cache'})}
 
 
 # Email
